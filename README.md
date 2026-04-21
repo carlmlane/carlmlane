@@ -28,9 +28,9 @@ const carl = {
 ### Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Emergent AI Give Us the Overview Effect?](https://carlmlane.com/blog/emergent-ai-overview-effect)
 - [Is AI Code Helping Your Team Learn or Helping Them Skip It?](https://carlmlane.com/blog/ai-code-learning-vs-skipping)
 - [Why Your Team Can&#39;t Listen Until They&#39;ve Been Heard](https://carlmlane.com/blog/listening-before-being-heard)
-- [Why Learning Velocity Beats Headcount in Engineering](https://carlmlane.com/blog/engineering-team-learning)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
