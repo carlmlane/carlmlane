@@ -28,9 +28,9 @@ const carl = {
 ### Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Assertiveness Should Be the Default for Engineering, Product, and Design Leaders](https://carlmlane.com/blog/assertiveness-default-engineering-leaders)
 - [How Does R&amp;D Open the Prototype Gate to the Whole Organization?](https://carlmlane.com/blog/prototype-gate-whole-org)
 - [Can Emergent AI Give Us the Overview Effect?](https://carlmlane.com/blog/emergent-ai-overview-effect)
-- [Is AI Code Helping Your Team Learn or Helping Them Skip It?](https://carlmlane.com/blog/ai-code-learning-vs-skipping)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
