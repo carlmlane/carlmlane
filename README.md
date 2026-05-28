@@ -28,9 +28,9 @@ const carl = {
 ### Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Can a JavaScript Monorepo Be Fast and Supply-Chain-Resistant?](https://carlmlane.com/blog/pnpm-and-nx-for-efficient-monorepos-that-are-supply-chain-attack-resistant)
 - [Why Assertiveness Should Be the Default for Engineering, Product, and Design Leaders](https://carlmlane.com/blog/assertiveness-default-engineering-leaders)
 - [How Does R&amp;D Open the Prototype Gate to the Whole Organization?](https://carlmlane.com/blog/prototype-gate-whole-org)
-- [Can Emergent AI Give Us the Overview Effect?](https://carlmlane.com/blog/emergent-ai-overview-effect)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
